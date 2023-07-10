@@ -35,5 +35,9 @@ cd /path/to/jira-timesheet-bulk-logger
 ```
 
 ```
+npm i
+```
+
+```
 node index.js
 ```
