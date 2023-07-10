@@ -41,3 +41,13 @@ npm i
 ```
 node index.js
 ```
+
+---
+
+### ❓ How it works
+
+1. Enter the details about the task you want to log;
+2. Review the task and days you are about to register (weekends skipped automatically);
+3. Submit your worklog.
+
+*TODO: add example image*
